@@ -1,0 +1,36 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="arrow.png" x="0" y="1757" width="47" height="47"/>
+	<SubTexture name="b_back.png" x="71" y="1436" width="20" height="37"/>
+	<SubTexture name="card.png" x="0" y="1182" width="138" height="91"/>
+	<SubTexture name="cart.png" x="0" y="1983" width="39" height="47"/>
+	<SubTexture name="cartplus.png" x="0" y="1711" width="49" height="42"/>
+	<SubTexture name="choice.png" x="0" y="1490" width="53" height="53"/>
+	<SubTexture name="circle_template.png" x="71" y="1277" width="30" height="30"/>
+	<SubTexture name="close-btn.png" x="49" y="1808" width="37" height="37"/>
+	<SubTexture name="contact.png" x="43" y="1983" width="38" height="28"/>
+	<SubTexture name="contactmail.png" x="48" y="1859" width="37" height="31"/>
+	<SubTexture name="facebook.png" x="0" y="1277" width="67" height="67"/>
+	<SubTexture name="howto.png" x="0" y="0" width="640" height="1010"/>
+	<SubTexture name="ig.png" x="0" y="1419" width="67" height="67"/>
+	<SubTexture name="logo.png" x="0" y="1106" width="293" height="72"/>
+	<SubTexture name="magnifier.png" x="57" y="1490" width="32" height="32"/>
+	<SubTexture name="main-01-active.png" x="71" y="1352" width="21" height="38"/>
+	<SubTexture name="main-01.png" x="71" y="1394" width="21" height="38"/>
+	<SubTexture name="main-02-active.png" x="54" y="1631" width="34" height="34"/>
+	<SubTexture name="main-02.png" x="54" y="1593" width="34" height="34"/>
+	<SubTexture name="main-03-active.png" x="54" y="1547" width="34" height="42"/>
+	<SubTexture name="main-03.png" x="53" y="1711" width="34" height="42"/>
+	<SubTexture name="main-04-active.png" x="0" y="1949" width="40" height="30"/>
+	<SubTexture name="main-04.png" x="0" y="1915" width="40" height="30"/>
+	<SubTexture name="phone.png" x="51" y="1757" width="35" height="35"/>
+	<SubTexture name="pin.png" x="71" y="1311" width="26" height="37"/>
+	<SubTexture name="promotion.png" x="0" y="1859" width="44" height="52"/>
+	<SubTexture name="scale_9_brown.png" x="0" y="1656" width="50" height="51"/>
+	<SubTexture name="scale_9_white.png" x="0" y="1601" width="50" height="51"/>
+	<SubTexture name="searchbar.png" x="0" y="1014" width="403" height="88"/>
+	<SubTexture name="signout.png" x="0" y="1808" width="45" height="47"/>
+	<SubTexture name="square.png" x="0" y="1547" width="50" height="50"/>
+	<SubTexture name="twitter.png" x="0" y="1348" width="67" height="67"/>
+	<SubTexture name="user-yellow.png" x="54" y="1669" width="32" height="32"/>
+	<SubTexture name="user.png" x="44" y="1915" width="38" height="38"/>
+</TextureAtlas>

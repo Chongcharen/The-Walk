@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Shop/ContentManager.cs">
+    <Files>
+      <File FileName="Assets/Script/Utility/share/GeneralSharing.cs" Line="4" Column="38" />
+      <File FileName="Assets/Script/Shop/FoodBoard.cs" Line="46" Column="43" />
+      <File FileName="Assets/Script/Shop/ContentManager.cs" Line="67" Column="41" />
+      <File FileName="Assets/Script/Shop/Page/FoodPage.cs" Line="36" Column="3" />
+      <File FileName="Assets/Script/Page/CategoryMenu.cs" Line="30" Column="3" />
+      <File FileName="Assets/Script/Shop/CategoryButton.cs" Line="20" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

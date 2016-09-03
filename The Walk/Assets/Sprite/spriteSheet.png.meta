@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: d5a0c5b48413443aaa3b5aca710e08ba
+timeCreated: 1463125716
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: card.png
+    21300002: cart.png
+    21300004: cartplus.png
+    21300006: close-btn.png
+    21300008: contact.png
+    21300010: contactmail.png
+    21300012: facebook.png
+    21300014: ig.png
+    21300016: logo.png
+    21300018: magnifier.png
+    21300020: main-01-active.png
+    21300022: main-01.png
+    21300024: main-02-active.png
+    21300026: main-02.png
+    21300028: main-03-active.png
+    21300030: main-03.png
+    21300032: main-04-active.png
+    21300034: main-04.png
+    21300036: phone.png
+    21300038: pin.png
+    21300040: promotion.png
+    21300042: signout.png
+    21300044: spritesheet.png
+    21300046: square.png
+    21300048: twitter.png
+    21300050: user-yellow.png
+    21300052: user.png
+    21300054: scale_9_brown.png
+    21300056: scale_9_white.png
+    21300058: b_back.png
+    21300060: choice.png
+    21300062: circle_template.png
+    21300064: searchbar.png
+    21300066: howto.png
+    21300068: arrow.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arrow.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 23.5}
+        - {x: -23.5, y: 12.5}
+        - {x: -23.5, y: -23.5}
+        - {x: -3.5, y: -23.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 23.5, y: 23.5}
+    - name: b_back.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 575
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: card.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 138
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -42.5}
+        - {x: -66, y: -45.5}
+        - {x: 65, y: -45.5}
+        - {x: 69, y: -41.5}
+        - {x: 69, y: 11.5}
+        - {x: -69, y: 11.5}
+      - - {x: -69, y: 45.5}
+        - {x: -69, y: 17.5}
+        - {x: 69, y: 17.5}
+        - {x: 69, y: 43.5}
+        - {x: 68, y: 45.5}
+    - name: cart.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 23.5}
+        - {x: -19.5, y: 22.5}
+        - {x: -19.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 19.5, y: -22.5}
+        - {x: 19.5, y: 23.5}
+    - name: cartplus.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21}
+        - {x: -24.5, y: -21}
+        - {x: 12.5, y: -21}
+        - {x: 16.5, y: -19}
+        - {x: 24.5, y: -10}
+        - {x: 24.5, y: 21}
+    - name: choice.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 26.5}
+        - {x: -26.5, y: 17.5}
+        - {x: -26.5, y: -15.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -16.5, y: -26.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 26.5, y: -18.5}
+        - {x: 26.5, y: 14.5}
+        - {x: 17.5, y: 26.5}
+    - name: circle_template.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 741
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: close-btn.png
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 203
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -15.5}
+        - {x: -17.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 18.5, y: 18.5}
+    - name: contact.png
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: contactmail.png
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 158
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: facebook.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 33.5}
+        - {x: -33.5, y: 27.5}
+        - {x: -33.5, y: -20.5}
+        - {x: -26.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 33.5, y: -20.5}
+        - {x: 33.5, y: 19.5}
+        - {x: 23.5, y: 33.5}
+    - name: howto.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 640
+        height: 1010
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320, y: -505}
+        - {x: 320, y: -505}
+        - {x: 320, y: -256}
+        - {x: -320, y: -256}
+      - - {x: -320, y: -253}
+        - {x: 320, y: -253}
+        - {x: 320, y: -2}
+        - {x: -320, y: -2}
+      - - {x: -320, y: 2}
+        - {x: 320, y: 2}
+        - {x: 320, y: 253}
+        - {x: -320, y: 253}
+      - - {x: -320, y: 505}
+        - {x: -320, y: 256}
+        - {x: 320, y: 256}
+        - {x: 320, y: 505}
+    - name: ig.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 33.5}
+        - {x: -33.5, y: 27.5}
+        - {x: -33.5, y: -20.5}
+        - {x: -26.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 33.5, y: -20.5}
+        - {x: 33.5, y: 19.5}
+        - {x: 23.5, y: 33.5}
+    - name: logo.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 293
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.5, y: -13}
+        - {x: -117.5, y: -20}
+        - {x: -117.5, y: -19}
+        - {x: -119.5, y: -13}
+        - {x: -120.5, y: -13}
+        - {x: -126.5, y: -14}
+        - {x: -128.5, y: -15}
+        - {x: -128.5, y: -36}
+        - {x: -42.5, y: -36}
+        - {x: -39.5, y: -32}
+        - {x: -39.5, y: -20}
+        - {x: -48.5, y: -13}
+      - - {x: -7.5, y: -13}
+        - {x: -18.5, y: -14}
+        - {x: -36.5, y: -18}
+        - {x: -36.5, y: -34}
+        - {x: 11.5, y: -34}
+        - {x: 12.5, y: -31}
+        - {x: 11.5, y: -16}
+        - {x: 9.5, y: -13}
+      - - {x: 37.5, y: 17}
+        - {x: 37.5, y: 4}
+        - {x: 60.5, y: -15}
+        - {x: 146.5, y: -15}
+        - {x: 146.5, y: 17}
+      - - {x: -43.5, y: 36}
+        - {x: -44.5, y: 33}
+        - {x: -44.5, y: 30}
+        - {x: -45.5, y: 36}
+        - {x: -77.5, y: 36}
+        - {x: -77.5, y: 4}
+        - {x: -72.5, y: -11}
+        - {x: -32.5, y: -11}
+        - {x: -27.5, y: 16}
+        - {x: -27.5, y: 36}
+      - - {x: 39.5, y: 25}
+        - {x: -5.5, y: 25}
+        - {x: -7.5, y: 20}
+        - {x: -11.5, y: 24}
+        - {x: -15.5, y: 25}
+        - {x: -22.5, y: 25}
+        - {x: -32.5, y: 3}
+        - {x: -32.5, y: 0}
+        - {x: -29.5, y: -2}
+        - {x: 39.5, y: -2}
+      - - {x: -126.5, y: -1}
+        - {x: -117.5, y: -1}
+        - {x: -115.5, y: 1}
+        - {x: -115.5, y: 3}
+        - {x: -116.5, y: 5}
+        - {x: -115.5, y: 4}
+        - {x: -115.5, y: 1}
+        - {x: -114.5, y: -1}
+        - {x: -83.5, y: -1}
+        - {x: -80.5, y: 3}
+        - {x: -80.5, y: 8}
+        - {x: -81.5, y: 11}
+        - {x: -84.5, y: 10}
+        - {x: -89.5, y: 6}
+        - {x: -87.5, y: 8}
+        - {x: -80.5, y: 16}
+        - {x: -80.5, y: 17}
+        - {x: -83.5, y: 25}
+        - {x: -115.5, y: 25}
+        - {x: -116.5, y: 21}
+        - {x: -115.5, y: 23}
+        - {x: -116.5, y: 25}
+        - {x: -146.5, y: 25}
+        - {x: -146.5, y: 15}
+        - {x: -145.5, y: 15}
+        - {x: -143.5, y: 1}
+        - {x: -141.5, y: -1}
+        - {x: -131.5, y: -1}
+        - {x: -129.5, y: 1}
+        - {x: -129.5, y: 2}
+    - name: magnifier.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -14, y: 8}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+    - name: main-01-active.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 658
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: main-01.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 616
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: main-02-active.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 383
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 14}
+        - {x: 16, y: 17}
+    - name: main-02.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 421
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 14}
+        - {x: 16, y: 17}
+    - name: main-03-active.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 459
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -17, y: -21}
+        - {x: 17, y: -21}
+        - {x: 17, y: 21}
+    - name: main-03.png
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 295
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -17, y: -21}
+        - {x: 17, y: -21}
+        - {x: 17, y: 21}
+    - name: main-04-active.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: main-04.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: phone.png
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 256
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -4.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 3.5}
+        - {x: 3.5, y: 17.5}
+    - name: pin.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 700
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: promotion.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 26}
+        - {x: -22, y: -10}
+        - {x: -13, y: -26}
+        - {x: 13, y: -26}
+        - {x: 22, y: -11}
+        - {x: 22, y: 11}
+        - {x: 5, y: 26}
+    - name: scale_9_brown.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline:
+      - - {x: -25.5, y: 26.5}
+        - {x: -25.5, y: -26.5}
+        - {x: 25.5, y: -26.5}
+        - {x: 25.5, y: 26.5}
+    - name: scale_9_white.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline:
+      - - {x: -25.5, y: 26.5}
+        - {x: -25.5, y: -26.5}
+        - {x: 25.5, y: -26.5}
+        - {x: 25.5, y: 26.5}
+    - name: searchbar.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 403
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 38, z: 50, w: 38}
+      outline:
+      - - {x: 201.5, y: 16}
+        - {x: 194.5, y: 31}
+        - {x: 183.5, y: 41}
+        - {x: 174.5, y: 44}
+        - {x: -178.5, y: 44}
+        - {x: -201.5, y: 29}
+        - {x: -201.5, y: -25}
+        - {x: -180.5, y: -44}
+        - {x: 175.5, y: -44}
+        - {x: 183.5, y: -41}
+        - {x: 199.5, y: -24}
+        - {x: 201.5, y: -19}
+    - name: signout.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 20.5, y: -23.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 22.5, y: 23.5}
+    - name: square.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline:
+      - - {x: -24.5, y: 25}
+        - {x: -24.5, y: -25}
+        - {x: 24.5, y: -25}
+        - {x: 24.5, y: 25}
+    - name: twitter.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 33.5}
+        - {x: -33.5, y: 27.5}
+        - {x: -33.5, y: -20.5}
+        - {x: -26.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 33.5, y: -20.5}
+        - {x: 33.5, y: 19.5}
+        - {x: 23.5, y: 33.5}
+    - name: user-yellow.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 347
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -8, y: 16}
+        - {x: -14, y: 9}
+        - {x: -16, y: -1}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 14, y: 10}
+    - name: user.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: -14, y: 19}
+        - {x: -16, y: 17}
+        - {x: -19, y: 6}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 1}
+        - {x: 17, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
